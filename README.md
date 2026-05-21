@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate AI/ML Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-- 🔭 I’m currently working on [Executable python GUI app](https://github.com/adarsh217/Python-GUI-Project)
-
-- 🌱 I’m currently learning **.Net framework**
-
 - 👨‍💻 All of my projects are available at [https://github.com/adarsh217](https://github.com/adarsh217)
 
-- 💬 Ask me about **ML algorithms**
+- 💬 Ask me about **AI/ML algorithms**
 
 - 📫 How to reach me **adarshrai26@hotmail.com**
-
-- ⚡ Fun fact **I think I'm a polymath.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
